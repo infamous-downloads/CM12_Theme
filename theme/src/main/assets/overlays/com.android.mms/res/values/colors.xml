@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="actionbar_background_color">#ff000000</color>
+    <color name="actionbar_background_color_dark">#ff000000</color>
+    <color name="background">#ff000000</color>
+    <color name="background_dialpad">#ff000000</color>
+    <color name="background_dialpad_pressed">#ff484648</color>
+    <color name="background_primary">#ff000000</color>
+    <color name="chips_dropdown_background_activated">#ff000000</color>
+    <color name="contact_all_list_background_color">#ff000000</color>
+    <color name="darkgray_backgrounds">#ff000000</color>
+    <color name="dialer_theme_color">#ff000000</color>
+    <color name="dialer_theme_color_dark">#ff000000</color>
+    <color name="holo_list_background_color">#ff000000</color>
+
+    <color name="white">#ffffffff</color>
+    <color name="black">#ff000000</color>
+
+    <color name="mms_theme_color">#ff000000</color>
+    <color name="mms_theme_color_dark">#ff000000</color>
+    <color name="mms_theme_color_accent">#ffffffff</color>
+    <color name="people_app_theme_color">#ff000000</color>
+    <color name="dialtacts_theme_color">#ff000000</color>
+
+    <color name="actionbar_text">#ffffffff</color>
+    <color name="compose_message_text_counter">#ffffffff</color>
+    <color name="dialpad_primary_text_color">#ffffffff</color>
+    <color name="dialpad_secondary_text_color">#ffffffff</color>
+    <color name="dialpad_digits_text_color">#ffffffff</color>
+    <color name="dialtacts_secondary_text_color">#ffffffff</color>
+    <color name="delivery_report_recipient">#ffffffff</color>
+    <color name="delivery_report_status">#ffffffff</color>
+    <color name="delivery_report_date">#ffffffff</color>
+    <color name="message_recieved">#ffffffff</color>
+    <color name="message_sent">#ffffffff</color>
+    <color name="primary_text_color">#ffffffff</color>
+    <color name="searchbox_text_color">#ffffffff</color>
+    <color name="secondary_text_color">#ffffffff</color>
+    <color name="section_header_text_color">#ffffffff</color>
+
+    <color name="ripple_material_dark">#20484648</color>
+
+    <color name="image_placeholder">#ff000000</color>
+    <color name="incoming_message_bg_default">#00000000</color>
+    <color name="outgoing_message_bg">#ffd9d9d9</color>
+    <color name="selected_list_item_bg">#ff000000</color>
+</resources>

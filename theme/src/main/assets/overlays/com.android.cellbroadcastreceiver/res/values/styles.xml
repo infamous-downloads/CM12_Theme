@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <style name="AlertFullScreenTheme" parent="@android:style/Theme.Material" />
+    <style name="CellBroadcastSettingsTheme" parent="@android:style/Theme.Material">
+		<item name="android:background">@color/cell_broadcast_color_primary</item>
+		<item name="android:statusBarColor">@color/cell_broadcast_color_primary</item>
+    </style>
+</resources>

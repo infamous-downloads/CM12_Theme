@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <color name="white">#ffffffff</color>
+	<color name="shiro">#ffffffff</color>
+	<color name="kuro">#ff000000</color>
+	<color name="hairo">#ff000000</color>
+	<color name="shiro_hairo_ichi">#ff3b393b</color>
+	<color name="shiro_hairo_ni">#ffaaaaaa</color>
+	<color name="shiro_hairo_toumei">#33777777</color>
+	
+	<!-- YOU CAN EDIT THESE SAFELY -->
+	<color name="battery_saver_mode_color">#ff3b3b3b</color>
+    <color name="darker_gray">#ffa9a4a9</color>
+	
+		<!--Editing Holo for a Monochrome Look-->
+			<color name="holo_blue_dark">#ffc3c3c3</color>
+			<color name="holo_blue_light">#ffc3c3c3</color>
+			<color name="holo_blue_bright">#ffc3c3c3</color>
+			<color name="perms_dangerous_grp_color">#ffc3c3c3</color>
+			<color name="perms_dangerous_perm_color">#ffc3c3c3</color>
+			<color name="highlighted_text_holo_dark">#66c3c3c3</color>
+			<color name="highlighted_text_holo_light">#66c3c3c3</color>
+			<color name="datepicker_default_selected_text_color_holo_light">#ffc3c3c3</color>
+			<color name="datepicker_default_selected_text_color_holo_dark">#ffc3c3c3</color>
+			<color name="datepicker_default_selected_text_color_material_light">#ffc3c3c3</color>
+			<color name="datepicker_default_selected_text_color_material_dark">#ffc3c3c3</color>
+	
+    <color name="system_notification_accent_color">#ff607d8b</color>
+	
+    <color name="primary_text_default_material_light">#ffb6b1b6</color>
+    <color name="secondary_text_default_material_light">#ff8c8c8c</color>
+    <color name="primary_text_default_material_dark">#ffb6b1b6</color>
+    <color name="secondary_text_default_material_dark">#ff8c8c8c</color>
+	
+	<color name="highlighted_text_material_light">#66777777</color>
+    <color name="highlighted_text_material_dark">#66777777</color>
+	
+    <color name="material_deep_teal_200">#ffb6b1b6</color>
+    <color name="material_deep_teal_500">#ffb6b1b6</color>
+    <color name="material_blue_grey_800">#ff000000</color>
+    <color name="material_blue_grey_900">#ff000000</color>
+    <color name="material_blue_grey_950">#ff000000</color>
+	
+    <color name="notification_icon_bg_color">#ff777777</color>
+    <color name="notification_action_color_filter">#ffffffff</color>
+    <color name="notification_media_primary_color">#ffffffff</color>
+    <color name="notification_media_secondary_color">#ffffffff</color>
+</resources>

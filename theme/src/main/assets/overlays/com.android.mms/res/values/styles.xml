@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing Mms.apk's Styles-->
+<!--LAST REVISED ON: 12:01AM EST 06/02/2015-->
+
+<resources>
+    <style name="MmsTheme" parent="@android:style/Theme.Material">
+	    <item name="android:colorBackground">@color/black</item>
+	    <item name="android:windowBackground">@color/black</item>
+    </style>
+</resources>

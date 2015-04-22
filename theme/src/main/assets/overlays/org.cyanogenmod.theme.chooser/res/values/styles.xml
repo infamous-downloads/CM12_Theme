@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--You are editing ThemeChooser.apk's Styles-->
+<!--LAST REVISED ON: 12:35AM EST 06/02/2015-->
+
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Material">
+		<item name="android:statusBarColor">@color/primary</item>
+	</style>
+	<style name="ChooserToolbarStyle" parent="@android:style/Widget.Material.Toolbar" />
+</resources>

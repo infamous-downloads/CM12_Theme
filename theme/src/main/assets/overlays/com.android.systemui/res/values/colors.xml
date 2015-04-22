@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<!--Color of your notification drawer, primary:middle, secondary:top w/avatar, accent: brightness trail)-->	
+		<color name="system_primary_color">#ff000000</color>
+		<color name="system_secondary_color">#ff000000</color>
+		<color name="system_accent_color">#ff818181</color>
+	
+	<!--Quick Settings in Notification drawer -->	
+		<color name="qs_tile_text">#ffffffff</color>
+	
+	<!--All notification popups listed here-->
+		<color name="notification_legacy_background_color">#ff000000</color>
+		<color name="notification_material_background_color">#ff000000</color>
+		<color name="notification_material_background_dimmed_color">#ff000000</color>
+		<color name="notification_material_background_low_priority_color">#ff000000</color>
+		<color name="notification_material_background_media_default_color">#ff000000</color>
+		
+	<!--Misc ROM based tweaks-->
+		<color name="status_bar_traffic_color">#ffffffff</color>
+		<color name="gesture_overlay_background_fill_color">#80000000</color>
+		<color name="fab_color">#ff515151</color>
+		<color name="floating_action_button_icon_color">#ffffffff</color>
+</resources>
